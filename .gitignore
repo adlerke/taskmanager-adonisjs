@@ -1,6 +1,8 @@
 # Node modules
 node_modules
 
+#vscode settings for databases
+.vscode/
 # Adonis directory for storing tmp files
 tmp
 
@@ -9,3 +11,4 @@ tmp
 
 # The development sqlite file
 database/*.sqlite
++
